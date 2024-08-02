@@ -1,2 +1,2 @@
 # Projeto_Pygame_faculdade
-DEPOIS ADCIONO COISA DE RELEVANTE AQUI
+Apenas um projeto de faculdade cujo o objetivo era fazer um jogo...
